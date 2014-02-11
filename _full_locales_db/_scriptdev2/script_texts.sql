@@ -21,6 +21,18 @@
 SET NAMES 'utf8';
 UPDATE script_texts SET content_loc3=NULL;
 
+--
+-- -1 000 000 First 100 entries are reserved for special use, do not add regular text here.
+--
+
+UPDATE script_texts SET content_loc3='<ScriptDev2 Text Eintrag fehlt!>' WHERE entry=-1000000;
+UPDATE script_texts SET content_loc3='%s wird mörderisch wahnsinnig!' WHERE entry=-1000001;
+UPDATE script_texts SET content_loc3='%s wird wahnsinnig!' WHERE entry=-1000002;
+UPDATE script_texts SET content_loc3='%s wird wütend' WHERE entry=-1000003;
+UPDATE script_texts SET content_loc3='%s geht in einen Berserkermodus!' WHERE entry=-1000004;
+UPDATE script_texts SET content_loc3='%s wird wahnsinnig!' WHERE entry=-1000005;
+UPDATE script_texts SET content_loc3='%s gerät in Raserei!' WHERE entry=-1000006;
+
 -- -1 580 000 SUNWELL PLATEAU
 UPDATE script_texts SET content_loc3='Ah ha haa!! Nicht länger werde ich Malygos\' Sklave sein! Fordert mich heraus und Ihr werdet vernichtet!' WHERE entry=-1580000;
 UPDATE script_texts SET content_loc3='Ich werde Euch auslöschen!' WHERE entry=-1580001;
