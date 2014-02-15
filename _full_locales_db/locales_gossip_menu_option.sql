@@ -1406,6 +1406,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte dieses Gasth
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig in Euren Waren stöbern.' WHERE menu_id=7288 AND id=3;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Danke für das Angebot, Floyd. Ich möchte die Höllenfeuerhalbinsel zu meinem Zuhause machen.' WHERE menu_id=7290 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich suche nach Spezialzubehör. Lasst mich durch Eure Waren stöbern, Floyd.' WHERE menu_id=7290 AND id=1;
+UPDATE locales_gossip_menu_option SET option_text_loc3='Ich würde mir gerne Eure Waren ansehen, Sid.' WHERE menu_id=7301 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte die Eherenfeste zu meinem Zuhause machen, Sid' WHERE menu_id=7301 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich suche Unterweisung auf dem Weg des Priesters.' WHERE menu_id=7349 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte meine Talente verlernen.' WHERE menu_id=7349 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Informationen zur dualen Talentspezialisierung.' WHERE menu_id=7349 AND id=2;
@@ -1633,6 +1635,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc3='Wohin kann ich fliegen?'
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich... schau mich mal um.' WHERE menu_id=7947 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte dieses Gasthaus zu meinem Heimatort machen.' WHERE menu_id=7948 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich sehe mich nur mal um.' WHERE menu_id=7948 AND id=2;
+UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchste dieses Gasthaus zu meinem Heimatort machen.' WHERE menu_id=7949 AND id=2;
+UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig in Euren Waren stöbern.' WHERE menu_id=7949 AND id=3;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte dieses Gasthaus zu meinem Heimatort machen.' WHERE menu_id=7952 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig in Euren Waren stöbern.' WHERE menu_id=7952 AND id=2;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Was verkauft Ihr hier?' WHERE menu_id=7957 AND id=0;
