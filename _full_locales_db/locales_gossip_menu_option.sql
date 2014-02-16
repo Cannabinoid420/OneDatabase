@@ -2624,9 +2624,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig Eu
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich benötige eine Ausbildung.' WHERE menu_id=10365 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig Eure Waren betrachten.' WHERE menu_id=10365 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Sekundäre Verteidigungssysteme aktivieren.' WHERE menu_id=10366 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc3='Duale Talentspezialisierung erwerben.', box_text_loc3='Seid Ihr sicher, dass Ihr eine zweite Talentspezialisierung erwerben möchtet?' WHERE menu_id=10371 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Bittet Cavin, den Schwarzen Ritter herbeizurufen.' WHERE menu_id=10383 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc3='Duale Talentspezialisierung erwerben.', box_text_loc3='Seid Ihr sicher, dass Ihr eine zweite Talentspezialisierung erwerben möchtet?' WHERE menu_id=10386 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Teleport zum Basislager der Expedition.' WHERE menu_id=10389 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Teleport zum Gestaltungsgelände.' WHERE menu_id=10389 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc3='Teleport zur kolossalen Schmiede.' WHERE menu_id=10389 AND id=3;
